@@ -107,7 +107,7 @@ button{
 .catbar{
     display:flex;
     gap:10px;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left:70px;
     margin-right:70px;
     justify-content: space-between;
