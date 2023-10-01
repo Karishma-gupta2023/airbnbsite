@@ -124,6 +124,7 @@ border: 2px solid darkgray;
 padding:10px;
 border-radius: 10px;
 font-size: 14px;
+display:flex;
 
 
 }
@@ -133,6 +134,7 @@ font-size: 14px;
     padding:10px;
     border-radius: 10px;
     font-size: 18px;
+    display:flex;
 }
 
 .cat-tax p{
